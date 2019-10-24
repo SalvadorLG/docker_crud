@@ -1,0 +1,16 @@
+{
+  "name": "docker-hello-world",
+  "version": "1.0.0",
+  "description": "mi primer contenedor con docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "salvador",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "sqlite3": "^4.0.4"
+  }
+}
