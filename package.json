@@ -9,7 +9,7 @@
   "author": "salvador",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "md5": "^2.2.1",
     "sqlite3": "^4.0.4"
   }
